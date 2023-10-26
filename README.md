@@ -1,3 +1,17 @@
+Install packages:
+
+- @emailjs/browser
+- @fortawesome/free-brands-svg-icons
+- @fortawesome/free-solid-svg-icons
+- @fortawesome/react-fontawesome (utility to use fontawesome in React)
+- animate.css
+- gsap-trial (complex animations)
+- loaders.css
+- react-leaflet (maps)
+- react-loaders (react integration)
+- react-router-dom
+- sass
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
